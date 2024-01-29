@@ -8,18 +8,18 @@ notification: ""
 sections:
   - hero:
       title: Studying in Singapore
-      subtitle: " For International students looking to study in Singapore"
+      subtitle: For International students looking to study in Singapore
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Why Singapore
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
+        - title: What is for you
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: Start Planning Now
           description: Page A is important too
           url: /privacy/
   - infobar:
