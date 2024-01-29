@@ -22,10 +22,24 @@ sections:
         - title: Start Planning Now
           description: Plan to study in Singapore now
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - textcards:
+      title: Singapore's education landscape
+      subtitle: Bringing out the best in you
+      id: textcards
+      description: With multiple educational pathways catering to the different
+        strengths and interests of every student, Singapore's schools provide
+        rich and diverse learning experiences.
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
