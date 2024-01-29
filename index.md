@@ -14,13 +14,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Why Singapore
-          description: Important highlight A is important
+          description: Info on Singapore's education
           url: https://google.com
         - title: What is for you
-          description: Important highlight B is equally important
+          description: Find out what is for you
           url: https://gmail.com
         - title: Start Planning Now
-          description: Page A is important too
+          description: Plan to study in Singapore now
           url: /privacy/
   - infobar:
       title: Infobar title
