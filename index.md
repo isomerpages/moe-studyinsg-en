@@ -30,7 +30,7 @@ sections:
         strengths and interests of every student, Singapore's schools provide
         rich and diverse learning experiences.
       cards:
-        - title: Card
+        - title: Why Singapore
           description: Card description
           linktext: Learn more
           url: ""
