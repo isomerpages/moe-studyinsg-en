@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Studying in Singapore
-      subtitle: Hero subtitle
+      subtitle: " For International students looking to study in Singapore"
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
