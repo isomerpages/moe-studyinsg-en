@@ -9,14 +9,14 @@ sections:
   - hero:
       title: Studying in Singapore
       subtitle: For International students looking to study in Singapore
-      background: /images/hero-banner.png
+      background: /images/Changkat_Changi_Sec_Sch.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Why Singapore
           description: Info on Singapore's education
           url: https://google.com
-        - title: What is for you
+        - title: What's for you
           description: Find out what is for you
           url: https://gmail.com
         - title: Start Planning Now
