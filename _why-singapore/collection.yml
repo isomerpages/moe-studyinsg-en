@@ -1,4 +1,5 @@
 collections:
   why-singapore:
     output: true
-    order: []
+    order:
+      - Why Singapore.md
