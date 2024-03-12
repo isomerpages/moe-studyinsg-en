@@ -2,5 +2,5 @@ collections:
   why-singapore:
     output: true
     order:
-      - High Quality Education/.keep
       - Why Singapore.md
+      - High Quality Education/.keep
