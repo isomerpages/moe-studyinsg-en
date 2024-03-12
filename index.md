@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Why Singapore
           description: Info on Singapore's education
-          url: https://google.com
+          url: https://master.d33w1dm97x8z0d.amplifyapp.com/why-singapore/
         - title: What's for you
           description: Find out what is for you
           url: https://gmail.com
