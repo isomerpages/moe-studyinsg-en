@@ -31,15 +31,15 @@ sections:
         rich and diverse learning experiences.
       cards:
         - title: Why Singapore
-          description: Card description
+          description: Singapore, the perfect education destination
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: What's for you
+          description: Courses and institutions
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Start Planning Now
+          description: Plan your studies in Singapore now
           linktext: Learn more
           url: ""
 ---
