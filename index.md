@@ -19,9 +19,9 @@ sections:
         - title: Studying in Singapore
           description: What to consider
           url: https://www.moe.gov.sg/international-students/studying-in-singapore
-        - title: Start Planning Now
-          description: Plan to study in Singapore now
-          url: /privacy/
+        - title: Admissions Process
+          description: Learn about how to apply
+          url: https://www.moe.gov.sg/international-students/admission
   - textcards:
       title: Singapore's education landscape
       subtitle: Bringing out the best in you
