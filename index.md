@@ -17,7 +17,7 @@ sections:
           description: Admissions to Sg Schools
           url: https://www.moe.gov.sg/international-students
         - title: Studying in Singapore
-          description: What to consider
+          description: Learn about what to consider
           url: https://www.moe.gov.sg/international-students/studying-in-singapore
         - title: Admissions Process
           description: Learn about how to apply
