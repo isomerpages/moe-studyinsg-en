@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Why Singapore
-          description: Info on Singapore's education
-          url: https://master.d33w1dm97x8z0d.amplifyapp.com/why-singapore/
+        - title: Admissions
+          description: Admissions to Sg Schools
+          url: https://www.moe.gov.sg/international-students
         - title: What's for you
           description: Find out what is for you
           url: https://gmail.com
