@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Admissions
-          description: Admissions to Sg Schools
+          description: Overview of Admissions
           url: https://www.moe.gov.sg/international-students
         - title: Studying in Singapore
           description: Learn about what to consider
