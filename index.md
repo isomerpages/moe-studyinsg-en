@@ -33,7 +33,7 @@ sections:
         - title: Why Singapore
           description: Singapore, the perfect education destination
           linktext: Learn more
-          url: https://cms.isomer.gov.sg/sites/moe-studyinsg-en/why-singapore
+          url: https://master.d33w1dm97x8z0d.amplifyapp.com/why-singapore/
         - title: What's for you
           description: Courses and institutions
           linktext: Learn more
