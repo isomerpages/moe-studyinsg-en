@@ -16,9 +16,9 @@ sections:
         - title: Admissions
           description: Admissions to Sg Schools
           url: https://www.moe.gov.sg/international-students
-        - title: What's for you
-          description: Find out what is for you
-          url: https://gmail.com
+        - title: Studying in Singapore
+          description: What to consider
+          url: https://www.moe.gov.sg/international-students/studying-in-singapore
         - title: Start Planning Now
           description: Plan to study in Singapore now
           url: /privacy/
