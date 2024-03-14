@@ -23,7 +23,7 @@ and certificate-holders with a competitive edge in the international job
 market.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/news/press-releases/20231205-singapore-strong-showing-in-pisa-2022-affirms-resilience-of-education-system-through-covid-19-pandemic" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2019_OSOS_Hougang_Pri.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore's Strong showing in PISA</div><div class="isomer-card-description">Singapore is one of the highest-performing countries in PISA, and is one of the very few countries in PISA that shows consistent improvement over time.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/nus-enters-top-10-in-global-university-ranking-for-the-first-time" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/universities-in-singapore/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2021_NUS_Engineering_Class_27_M.jpg">
