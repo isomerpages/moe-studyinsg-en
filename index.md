@@ -41,5 +41,5 @@ sections:
         - title: Start Planning Now
           description: Plan your studies in Singapore now
           linktext: Learn more
-          url: ""
+          url: /start-planning-now/
 ---
