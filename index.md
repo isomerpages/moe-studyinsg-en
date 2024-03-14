@@ -10,8 +10,8 @@ sections:
       title: Studying in Singapore
       subtitle: For International students looking to study in Singapore
       background: /images/Changkat_Changi_Sec_Sch.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: Scholarship Opportunities
+      url: /scholarship-opportunities/
       key_highlights:
         - title: Admissions
           description: Overview of Admissions
