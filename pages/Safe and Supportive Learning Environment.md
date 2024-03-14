@@ -21,7 +21,7 @@ a secure and convenient living environment.</p>
 <a rel="noopener noreferrer nofollow" href="https://safecities.economist.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2022_NAP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2019_OSOS_MERIDIAN_Sec.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
